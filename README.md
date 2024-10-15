@@ -1,6 +1,6 @@
-simple flask app with GET and POST methods(also database postgresql)
-trying do docker-compose
-how run this stuff:
+Simple flask app with GET and POST methods(also database postgresql).
+Trying do docker-compose.
+How run this stuff:
   1. download this repo
   2. install docker-compose
   3. CMD: sudo docker-compose up --build
